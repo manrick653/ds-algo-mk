@@ -1,0 +1,16 @@
+
+T
+java:S1854"7Remove this useless assignment to local variable "ex3".(Ü…İ8ñº”Ñœ1
+T
+java:S1854"7Remove this useless assignment to local variable "ex1".(»‰š„8ñº”Ñœ1
+E
+java:S1481"(Remove this unused "ex1" local variable.(»‰š„8óº”Ñœ1
+E
+java:S1481"(Remove this unused "ex3" local variable.(Ü…İ8õº”Ñœ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(±…Õ·ıÿÿÿÿ8÷º”Ñœ1
+]	java:S125
+"<This block of commented-out lines of code should be removed.(üæš…şÿÿÿÿ8÷º”Ñœ1
+]	java:S125"<This block of commented-out lines of code should be removed.(‡ÃËıÿÿÿÿ8øº”Ñœ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(„ğÆæÿÿÿÿÿ8ûº”Ñœ1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ãëë¹8şº”Ñœ1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ãëë¹8™µ—Ñœ1
